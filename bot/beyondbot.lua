@@ -291,7 +291,7 @@ function create_config( )
     "anti_spam",
     "killme"
     },
-    sudo_users = {157059515},--Sudo users
+    sudo_users = {172178919},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[😎Tele Beyond Final Version😎
@@ -303,17 +303,7 @@ Https://Github.com/solid021/TeleBeyond
 
 ▶️Sudo Users :
 
-Developer&Founder : @SoLiD021
-
-Developer&Manager : @MrHalix
-
-Developer&Manager : @idivanmanheb
-
-#⃣Team Channel :
-✌️ @BeyondTeam ✌️
-
-❤️Special Thx To :
-Beyond Team
+@CRAZYBOY10[172178919]
 And All My Friends :D
 ]],
     help_text_realm = [[
